@@ -1,0 +1,42 @@
+body {
+font-family: 'Roboto', sans-serif;
+max-width: 1140px;
+margin: 0 auto 1.6em;}
+
+.top-navigation {
+background-color: #fff;
+margin-top: 0em;
+position: relative;
+width: 100%;}
+
+.top-navigation > .content {
+width: 95%;
+height: 130px; margin: 0 auto;}
+
+.top-navigation .links {
+float: right;
+color: #838994;
+font-size: 16px;
+margin-top: 93px;}
+
+.top-navigation .links li {
+display: inline-block;
+margin-left: 25px;}
+
+.top-navigation .logo {
+padding-top: 25px}
+
+.top-navigation .links .active {
+color: #4c5058;
+font-weight: 500;}
+
+.top-navigation .links li:hover {
+    cursor: pointer;
+    color: #4c5058;
+    font-weight: bold;}
+
+.background-image {
+background-image: url(../images/dog-man.jpg);
+background-size: cover;
+background-repeat: none;
+height: 700px;}
