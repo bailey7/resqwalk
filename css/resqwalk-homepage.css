@@ -40,3 +40,44 @@ background-image: url(../images/dog-man.jpg);
 background-size: cover;
 background-repeat: none;
 height: 700px;}
+
+.press {
+padding-top: 5px;
+font-size: 22px;
+text-align: center;}
+
+.press-logos > li {
+display: inline-block;
+width: 18%;
+}
+
+.press-logos {
+padding-left: 0em;
+margin-top: -10}
+
+.press h2 {
+font-size: 22;
+font-style: italic;
+font-weight: lighter;
+color: #838994;
+}
+
+.status {
+padding-top: 0px;
+text-align: center;
+background-color: #9976b5;
+color: white;}
+
+.status h2 {
+font-size: 72px;
+margin: 15;}
+
+.status p {
+font-size: 20px;}
+
+.breakout > li {
+display: inline-block;
+width: 30%;
+}
+
+.breakout {padding-left: 0em}
