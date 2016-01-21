@@ -94,7 +94,14 @@ margin: 30 0}
 .description p {
 font-size: 16;
 color: #838994;
-font-weight: normal;}
+font-weight: normal;
+max-width: 80%;
+margin-left: auto;
+margin-right: auto;}
+
+.description hr {
+max-width: 80%;
+}
 
 
 .description a {
@@ -118,6 +125,10 @@ padding-left: 0;}
 
 .icons {
 color: #9976b5;}
+
+.icons i {
+color: #9976b5;
+}
 
 .social {
 text-align: center;

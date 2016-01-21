@@ -67,8 +67,9 @@ text-align: center;}
 .social .icons {
 padding-left: 0;}
 
-.icons {
-color: #9976b5;}
+.icons i {
+color: #9976b5;
+}
 
 .social {
 text-align: center;
