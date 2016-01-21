@@ -31,9 +31,9 @@ color: #4c5058;
 font-weight: 500;}
 
 .top-navigation .links li:hover {
-    cursor: pointer;
-    color: #4c5058;
-    font-weight: bold;}
+cursor: pointer;
+color: #4c5058;
+font-weight: bold;}
 
 .background-image {
 background-image: url(../images/dog-man.jpg);
@@ -88,14 +88,23 @@ margin-top: 50px;}
 font-size: 22;
 color: #3c3b3c;
 font-weight: normal;
-font-style: italic;
-text-transform: uppercase; }
+text-transform: uppercase;
+margin: 30 0}
 
 .description p {
 font-size: 16;
 color: #838994;
-font-weight: normal;
-max-width: 80%}
+font-weight: normal;}
+
+
+.description a {
+text-decoration: none;
+color: white;
+background-color: #9976b5;
+display: inline-block;
+padding: 1em;
+border-radius: 1em;
+font-size: 22px;}
 
 .social .icons > li {
 display: inline-block;
@@ -107,13 +116,15 @@ text-align: center;}
 .social .icons {
 padding-left: 0;}
 
+.icons {
+color: #9976b5;}
+
 .social {
 text-align: center;
 padding-top: 0px;
 text-align: center;
-background-color: #9976b5;
-color: white;}
+color: #838994;}
 
 .social h2 {
-padding-top: 15;
-}
+padding-top: 15;}
+
