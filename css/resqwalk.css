@@ -184,8 +184,9 @@ font-style: italic;}
 background-image: url(../images/orange-cat.jpg);
 background-size: cover;
 background-repeat: none;
-height: 400px;
-text-align: left;
+height: 400px}
+
+.background-contact .content {
 margin-left: auto;
 margin-right: auto;
 text-align: center}
@@ -214,6 +215,9 @@ margin-right: auto;}
 
 .description-contact hr {
 max-width: 80%;}
+
+.description-contact div {
+	text-align: center}
 
 /* styles for Legal Page */
 
@@ -250,5 +254,5 @@ margin-right: auto;}
 max-width: 80%;}
 
 .description-legal .content {
-	max-width: 80%;
+max-width: 80%;
 margin: 50}
