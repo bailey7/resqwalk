@@ -184,9 +184,7 @@ font-style: italic;}
 background-image: url(../images/orange-cat.jpg);
 background-size: cover;
 background-repeat: none;
-height: 400px;}
-
-.description-contact {
+height: 400px;
 text-align: left;
 margin-left: auto;
 margin-right: auto;
@@ -217,3 +215,40 @@ margin-right: auto;}
 .description-contact hr {
 max-width: 80%;}
 
+/* styles for Legal Page */
+
+.background-legal {
+background-image: url(../images/rabbit-grass.jpg);
+background-size: cover;
+background-repeat: none;
+height: 400px;
+text-align: left;}
+
+.description-legal h2 {
+font-size: 36;
+color: #3c3b3c;
+font-weight: normal;
+text-transform: uppercase;
+margin: 30 0;
+text-decoration: underline;}
+
+.description-legal h3 {
+font-size: 18;
+color: #3c3b3c;
+font-weight: 600;
+margin: 30 0}
+
+.description-legal p {
+font-size: 16;
+color: #838994;
+font-weight: normal;
+font-style: italic;
+margin-left: auto;
+margin-right: auto;}
+
+.description-legal hr {
+max-width: 80%;}
+
+.description-legal .content {
+	max-width: 80%;
+margin: 50}
