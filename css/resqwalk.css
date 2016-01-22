@@ -186,3 +186,34 @@ background-size: cover;
 background-repeat: none;
 height: 400px;}
 
+.description-contact {
+text-align: left;
+margin-left: auto;
+margin-right: auto;
+text-align: center}
+
+.description-contact h2 {
+font-size: 36;
+color: #3c3b3c;
+font-weight: normal;
+text-transform: uppercase;
+margin: 30 0;
+text-decoration: underline;}
+
+.description-contact h3 {
+font-size: 18;
+color: #3c3b3c;
+font-weight: 600;
+margin: 30 0}
+
+.description-contact p {
+font-size: 16;
+color: #838994;
+font-weight: normal;
+font-style: italic;
+margin-left: auto;
+margin-right: auto;}
+
+.description-contact hr {
+max-width: 80%;}
+
