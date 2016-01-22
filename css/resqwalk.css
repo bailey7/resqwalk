@@ -178,3 +178,11 @@ color: #838994;
 font-weight: normal;
 font-style: italic;}
 
+/* styles for Contact Page */
+
+.background-contact {
+background-image: url(../images/orange-cat.jpg);
+background-size: cover;
+background-repeat: none;
+height: 400px;}
+
